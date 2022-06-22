@@ -1,4 +1,4 @@
-README.md
+Markdown-разметка для файла README.md
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
